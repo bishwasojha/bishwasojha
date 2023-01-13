@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bishwasojha
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React JS
-- 📫 How to reach me bishwasojha19@gmail.com
+- 📫 How to reach me : 📧 bishwasojha19@gmail.com
 
 <!---
 bishwasojha/bishwasojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
