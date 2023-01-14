@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bishwasojha
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in React JS  
+- 🌱 I’m currently learning JS
 - 📫 How to reach me : 📧 bishwasojha19@gmail.com
 
 <!---
